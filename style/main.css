@@ -20,6 +20,9 @@ body {
 
 
 .menu {
+    display: flex;
+    font-size: large;
+    flex-direction: row;
+    justify-content: space-between;
     background-color: rgba(239, 231, 201, 1);
-    padding-left: 40%;
 }
