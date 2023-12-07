@@ -16,3 +16,10 @@ body {
     text-decoration-line: underline;
     padding: 4px;
 }
+
+
+
+.menu {
+    background-color: rgba(239, 231, 201, 1);
+    padding-left: 40%;
+}
