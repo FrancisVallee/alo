@@ -5,7 +5,6 @@ body {
 .indent {
     margin-left: 500px;
     margin-right: 500px;
-    background-color: #B9AB7B;
     padding: 10px;
 }
 
@@ -32,9 +31,7 @@ h1 {
     text-align: center;
   }
 
-  div {
-    text-align: center;
-  }
+
 
   
   
