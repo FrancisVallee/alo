@@ -20,7 +20,7 @@ body {
 h1 {
     text-align: center;
   }
-
+/*c'est pour toute les boîte de texte sur la gauche*/
 .Gauche {
     margin-right: 1100px;
     border-right-style: groove;
@@ -28,7 +28,7 @@ h1 {
     border-color: rgba(78, 78, 78, 0.29);
     border-width: 15px;
 }
-    
+/*c'est pour toute les boîte de texte sur la Droite*/
 .Droit{
     margin-left: 1100px;
     border-left-style: groove;
@@ -36,7 +36,7 @@ h1 {
     border-color: rgba(78, 78, 78, 0.29);
     border-width: 15px;
 }
-  
+/*c'est pour les boîte de texte au milieu dans la page a propos*/  
 .BoîteDescription{
     background-color: rgba(238, 238, 238, 1);
     margin-left: 700px;
@@ -44,7 +44,7 @@ h1 {
     border-style: groove;
     border-radius: 10px;
 }
-
+/*c'est pour les boîte de texte au milieu dans la page a propos*/  
 .BoîteResumé{
     background-color: rgba(238, 238, 238, 1);
     margin-left: 500px;
@@ -56,12 +56,23 @@ h1 {
 
 .BarreDeTache{
     background-color: rgba(238, 238, 238, 1);
-    
+       border-bottom-style: solid;
+       border-width: 1px;
+       border-color: rgba(78, 78, 78, 0.29);
+       
+}
+/*couleur des nom dans la page a propos*/
+.Jérémy{
+    color: rgba(129, 26, 26, 1);
 }
 
+.Francis{
+    color: rgba(21, 70, 26, 1);
+}
 
-
-
+.Audrey{
+    color: rgba(31, 46, 125, 1);
+}
 
   
   
