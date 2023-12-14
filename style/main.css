@@ -60,6 +60,7 @@ h1 {
        border-width: 1px;
        border-color: rgba(78, 78, 78, 0.29);
        
+       
 }
 /*couleur des nom dans la page a propos*/
 .Jérémy{
@@ -73,6 +74,24 @@ h1 {
 .Audrey{
     color: rgba(31, 46, 125, 1);
 }
+/*Pour l'option recherche dans la barre des taches*/
+.Recherche{
+    text-indent: 50px;
+}
 
+/*Pour l'option a propos dans la barre des taches*/
+.Apropos{
+    text-indent: 625px;
+}
+
+/*Pour retourner à la page d'accueil*/
+.Titre{
+    text-indent: 700px;
+}
+
+/*Pour l'option de la page contact*/
+.Profil{
+    text-indent: 50px;
+}
   
   
