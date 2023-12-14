@@ -23,10 +23,18 @@ h1 {
 
 .Gauche {
     margin-right: 1100px;
+    border-right-style: groove;
+    border-radius: 10px;
+    border-color: rgba(78, 78, 78, 0.29);
+    border-width: 15px;
 }
     
 .Droit{
     margin-left: 1100px;
+    border-left-style: groove;
+    border-radius: 10px;
+    border-color: rgba(78, 78, 78, 0.29);
+    border-width: 15px;
 }
   
 .BoîteDescription{
