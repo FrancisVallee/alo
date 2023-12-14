@@ -16,6 +16,31 @@ body {
     margin: 20px auto;
     width: 1440px;
     height: auto;
+    
+}
+
+.navbar {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(238, 238, 238, 1);
+    padding: 12px;
+}
+
+.navbar ul li a { 
+    color:#1d1d1d;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 .indent li {
@@ -62,11 +87,9 @@ h1 {
 
 .BarreDeTache{
     background-color: rgba(238, 238, 238, 1);
-       border-bottom-style: solid;
-       border-width: 1px;
-       border-color: rgba(78, 78, 78, 0.29);
-       
-       
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgba(78, 78, 78, 0.29);
 }
 /*couleur des nom dans la page a propos*/
 .Jérémy{
