@@ -33,12 +33,17 @@ h1 {
     background-color: rgba(238, 238, 238, 1);
     margin-left: 700px;
     margin-right: 700px;
+    border-style: groove;
+    border-radius: 10px;
 }
 
 .BoîteResumé{
     background-color: rgba(238, 238, 238, 1);
     margin-left: 500px;
     margin-right: 500px;
+    border-style: groove;
+    margin-top: 50px;
+    border-radius: 10px;
 }
 
 .BarreDeTache{
