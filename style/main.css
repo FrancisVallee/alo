@@ -12,6 +12,12 @@ body {
     list-style: square;
 }
 
+.imageGateauCentre {
+    margin: 20px auto;
+    width: 1440px;
+    height: auto;
+}
+
 .indent li {
     text-decoration-line: underline;
     padding: 4px;
