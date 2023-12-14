@@ -19,29 +19,7 @@ body {
     
 }
 
-.navbar {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: space-between;
-    background-color: rgba(238, 238, 238, 1);
-    padding: 12px;
-}
 
-.navbar ul li a { 
-    color:#1d1d1d;
-}
-
-.navbar ul {
-    display: flex;
-    align-items: center;
-    list-style-type: none;
-}
-
-a {
-    text-decoration: none;
-}
 
 .indent li {
     text-decoration-line: underline;
