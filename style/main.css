@@ -152,3 +152,8 @@ h1 {
     color: black;
 }
 
+.PositionVidéo{
+    position: relative;
+    left: 1150;
+    
+}
