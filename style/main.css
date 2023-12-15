@@ -146,4 +146,8 @@ h1 {
     align-items: center;
     justify-content: center;
 }
-  
+
+.couleurTexteRecetteAccueil {
+    text-decoration: none;
+    color: black;
+}
