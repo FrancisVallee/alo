@@ -147,14 +147,8 @@ h1 {
     justify-content: center;
 }
 
-<<<<<<< Updated upstream
 .couleurTexteRecetteAccueil {
     text-decoration: none;
     color: black;
-=======
-.PositionVidéo{
-    position: relative;
-    left: 1150px;
-    right: 1250px;
->>>>>>> Stashed changes
 }
+
